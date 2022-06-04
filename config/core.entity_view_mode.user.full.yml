@@ -1,0 +1,12 @@
+uuid: dae8e0cd-3a89-4a91-8649-0e42a58e7e6b
+langcode: ja
+status: false
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: mQIF_foYjmnVSr9MpcD4CTaJE_FpO1AyDd_DskztGhM
+id: user.full
+label: ユーザーアカウント
+targetEntityType: user
+cache: true

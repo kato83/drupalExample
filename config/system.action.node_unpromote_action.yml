@@ -1,0 +1,13 @@
+uuid: 949a6617-7ef0-4c04-b308-4c50330f97f1
+langcode: ja
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: JBptjnfuOMtsdKygklXxoOgeOCTMtQxlkymjnnj-cC0
+id: node_unpromote_action
+label: 'コンテンツをフロント ページから削除'
+type: node
+plugin: node_unpromote_action
+configuration: {  }

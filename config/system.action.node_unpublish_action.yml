@@ -1,0 +1,13 @@
+uuid: 7043c87c-13c4-42f4-9ea0-95c2d2e9fef6
+langcode: ja
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: C7X8h9FWlwkQ9y5mnU2JzgaZICAdc6HFbPVbhvjlAYE
+id: node_unpublish_action
+label: コンテンツを非公開にする
+type: node
+plugin: 'entity:unpublish_action:node'
+configuration: {  }

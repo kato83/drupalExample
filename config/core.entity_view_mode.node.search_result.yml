@@ -1,0 +1,12 @@
+uuid: ffac5c1a-aced-468e-a5b4-b668f25ddf1b
+langcode: ja
+status: false
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: 6GCOQ-jP2RbdbHA5YWQ6bT8CfGbqrBYKOSC_XY4E3ZM
+id: node.search_result
+label: 入力文字をハイライトした検索結果
+targetEntityType: node
+cache: true

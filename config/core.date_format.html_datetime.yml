@@ -1,0 +1,10 @@
+uuid: df2dc1ed-6d5d-448f-af97-353de2e71379
+langcode: ja
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jxfClwZIRXIdcvMrE--WkcZxDGUVoOIE3Sm2NRZlFuE
+id: html_datetime
+label: 'HTML 日時'
+locked: true
+pattern: 'Y-m-d\TH:i:sO'
